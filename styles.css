@@ -1,0 +1,19 @@
+
+
+      nav ul {
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        background-color: #494b43;
+        padding: 10px 0;
+    }
+    
+    nav li {
+        margin: 0 15px;
+    }
+    
+    nav a {
+        text-decoration: none;
+        color: white;
+    }
+   
